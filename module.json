@@ -1,7 +1,7 @@
 {
   "id": "masks-villains",
-  "title": "Masks: Villains Pack",
-  "description": "Villain NPCs from the Masks: A New Generation core rulebook. Requires the main Masks module.",
+  "title": "Masks: Deck of Villainy",
+  "description": "Villain NPCs from the Masks: A New Generation: Deck of Villainy expansion.",
   "version": "1.0.0",
   "compatibility": {
     "minimum": 13,
